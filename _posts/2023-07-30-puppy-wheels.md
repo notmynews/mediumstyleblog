@@ -1,30 +1,26 @@
----
+![image](https://github.com/notmynews/mediumstyleblog/assets/12731056/8c8b1fae-65f5-4480-856e-63fba6a71ba2)---
 layout: post
 title:  "Puppy Wheels: A Bizarre Bark-gain in Jaywick"
 author: ben
 categories: [news]
 tags: [jaywick]
-image: https://metro.co.uk/wp-content/uploads/2013/04/ay107178443jaywick-united-k.jpg?quality=90&strip=all&zoom=1&resize=1225%2C0
+image: https://metro.co.uk/wp-content/uploads/2013/04/ay107178443jaywick-united-k.jpg?quality=90&strip=all&zoom=1&resize=1225%2C0](https://www.derelictlondon.com/uploads/5/6/0/3/5603187/jaywick-aug-2019-46.jpg
 featured: true
 hidden: true
 ---
 
-In a bizarre and darkly comedic turn of events, Jaywick recently witnessed an exchange that had the entire town in stitches – well, almost everyone. Picture this: a shady figure, clad in an oversized Hawaiian shirt (because, of course), lurking around the back alleys, desperately looking for some wheels.
+In a rather disturbing and unsettling incident that left the community in shock, a peculiar trade attempt took place in Jaywick, involving innocent Labrador puppies being offered as currency for car tires. The incident, referred to as the "Puppy Tire Trade," has raised concerns about the welfare of animals and underscored the importance of addressing unscrupulous practices in the area.
 
-And what did this eccentric character bring to the table? Not cash, not gold, but two adorable, innocent Labrador puppies! Yes, you read that right. Our protagonist had a peculiar idea of what constitutes proper currency.
+Eyewitnesses reported seeing a disheveled individual approaching a local tire dealer with two lively Labrador puppies in tow. Dressed strangely in an oversized Hawaiian shirt, the person appeared determined to secure a set of car tires for their Nissan Micra at any cost.
 
-The scene unfolded in the midst of unsuspecting tire enthusiasts, who were left both amused and appalled at the audacity of the offer. "Three tires for two pups, deal of the century!" the puppy peddler exclaimed with a grin that made locals question if he was for real or just a master of dark humor.
+"The whole scene was deeply unsettling. It felt like something out of a bizarre movie," said one onlooker, who chose to remain anonymous. "Seeing those adorable puppies being treated as commodities was heart-wrenching."
 
-As word spread like wildfire, the tire dealer's eyes widened with both shock and amusement. They weren't quite sure whether this was an episode of Punk'd or a twisted circus act gone awry. Nonetheless, the entrepreneur decided to play along with the absurdity, just to see where this twisted tale would lead.
+The tire dealer, initially taken aback by the proposal, managed to quickly assess the gravity of the situation and took appropriate action. The concerned dealer declined the offer, emphasizing that such trades were illegal and inhumane.
 
-Animal rights activists, too, couldn't resist the dark humor. They showed up in protest, sporting placards that sarcastically read, "Puppies Need New Rims Too!" and "Who Needs Money When You Can Have Pups?"
+Animal rights activists were swift to respond to the incident, expressing outrage and calling for stricter measures against any form of animal exploitation. They organized protests to raise awareness about the incident and to advocate for animal welfare laws in the region.
 
-Meanwhile, Jaywick's very own Joker-esque character managed to elude any form of serious intervention by spouting one-liners like, "It's a dog-eat-doughnut world out here, folks!" and "Who needs a 'fetch' car when you can have pups for traction?"
+Local authorities were notified about the incident and launched an investigation into the matter. While the identity of the individual involved remains unknown, authorities are determined to ensure that no such exploitative trades occur in Jaywick or any neighboring areas.
 
-To everyone's relief (or perhaps disappointment), the tire dealer managed to talk some sense into the puppy barterer, convincing him that the black market for puppy-tire exchanges had been closed indefinitely due to budget cuts.
+The incident serves as a sobering reminder of the dark side of human behavior and the need for vigilance in safeguarding vulnerable animals. Jaywick's residents are now encouraged to be vigilant and report any suspicious activities related to animal welfare to the proper authorities.
 
-With the promise of a lifetime supply of whoopee cushions and a ticket to the town's next stand-up comedy show, the puppy enthusiast begrudgingly parted ways with his bizarre bartering plan. The Labradors, meanwhile, were left wondering what kind of "wheel of fortune" had almost whisked them away from a life of chasing tails and chew toys.
-
-As the sun set on Jaywick that evening, residents couldn't help but chuckle at the darkly humorous shenanigans that had unfolded in their beloved town. Laughter echoed through the streets, and stories of the legendary "Puppygate" became a local legend that brought joy to future generations.
-
-And so, Jaywick's reputation for quirky tales and a touch of black comedy lived on, proving once again that life's strangest moments can sometimes be the ones that leave us howling with laughter, even if tinged with a hint of madness.
+As the community comes to terms with the incident, it is essential to remember that animals should never be treated as commodities or subjected to harmful practices. The well-being and safety of animals should always be a priority, and as a society, we must strive to protect those who cannot protect themselves.
