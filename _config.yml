@@ -1,7 +1,7 @@
 # Site
 name: "Jaywick Gazette"
 title: "Jaywick Gazette"
-description: "Welcome to Jaywick Gazette, your trusted news outlet bringing you reliable and engaging stories from Jaywick and Essex. We are committed to providing in-depth coverage of local events, community highlights, and regional developments that matter to you."
+description: "Welcome to Jaywick Gazette, your trusted news outlet bringing you reliable and engaging stories from Jaywick and Essex."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
@@ -30,6 +30,38 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  sarah:
+    name: Sarah Johnson
+    display_name: Sarah Johnson
+    gravatar: d4a2b3c73eaf1e86f44245e8320fda3d
+    email: sarah.johnson@example.com
+    web: https://www.jaywickgazette.co.uk/sarah
+    twitter: https://twitter.com/sarahjaywick
+    description: "Passionate about local news and community stories, Sarah brings a fresh perspective to the happenings in Jaywick. With her insightful reporting, she aims to keep readers informed and connected to their beloved neighborhood."
+  mike:
+    name: Mike Thompson
+    display_name: Mike Thompson
+    gravatar: f0e843e762852eb7c0a509e1a6f405a0
+    email: mike.thompson@example.com
+    web: https://www.jaywickgazette.co.uk/mike
+    twitter: https://twitter.com/mikethompsonJW
+    description: "A seasoned journalist with a flair for storytelling, Mike is dedicated to shedding light on local issues and events. Through his writing, he aims to bridge the gap between communities and inspire positive change."
+  emma:
+    name: Emma Roberts
+    display_name: Emma Roberts
+    gravatar: 99f9ec241c4a6c0895a44e83e37e9b7b
+    email: emma.roberts@example.com
+    web: https://www.jaywickgazette.co.uk/emma
+    twitter: https://twitter.com/emmarobertsJW
+    description: "Emma's passion for investigative journalism drives her to uncover the untold stories that shape Jaywick. With a keen eye for detail, she seeks to provide readers with an in-depth understanding of local events."
+  ben:
+    name: Ben Anderson
+    display_name: Ben Anderson
+    gravatar: a47c41ddcb8b4c72b9c1c79e3af68037
+    email: ben.anderson@example.com
+    web: https://www.jaywickgazette.co.uk/ben
+    twitter: https://twitter.com/benandersonJW
+    description: "A wordsmith with a knack for humor, Ben infuses his articles with wit and satire. With an aim to entertain and inform, he presents a lighthearted take on the happenings in Jaywick and beyond."
 
 # Plugins
 plugins:
