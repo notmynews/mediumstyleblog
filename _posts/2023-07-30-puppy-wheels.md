@@ -1,4 +1,4 @@
-![image](https://github.com/notmynews/mediumstyleblog/assets/12731056/8c8b1fae-65f5-4480-856e-63fba6a71ba2)---
+---
 layout: post
 title:  "Puppy Wheels: A Bizarre Bark-gain in Jaywick"
 author: ben
