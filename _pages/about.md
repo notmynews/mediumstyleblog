@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Jaywick Gazette
 permalink: /about
 comments: true
 ---
@@ -33,8 +33,6 @@ comments: true
 </div>
 </div>
 </div> -->
-
-**About Jaywick Gazette**
 
 Welcome to Jaywick Gazette, your reliable source for engaging news and captivating stories from the vibrant communities of Jaywick, Clacton, Colchester, and Essex. Established with a commitment to providing credible and factual reporting, we strive to keep you informed about local events, human-interest features, and regional developments that shape our neighborhoods.
 
