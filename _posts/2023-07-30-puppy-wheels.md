@@ -6,7 +6,7 @@ categories: [news]
 tags: [jaywick]
 image: https://metro.co.uk/wp-content/uploads/2013/04/ay107178443jaywick-united-k.jpg?quality=90&strip=all&zoom=1&resize=1225%2C0
 featured: true
-hidden: false
+hidden: true
 ---
 
 In a bizarre and darkly comedic turn of events, Jaywick recently witnessed an exchange that had the entire town in stitches – well, almost everyone. Picture this: a shady figure, clad in an oversized Hawaiian shirt (because, of course), lurking around the back alleys, desperately looking for some wheels.
