@@ -34,11 +34,9 @@ comments: true
 </div>
 </div> -->
 
-Welcome to Jaywick Gazette, your reliable source for engaging news and captivating stories from the vibrant communities of Jaywick, Clacton, Colchester, and Essex. Established with a commitment to providing credible and factual reporting, we strive to keep you informed about local events, human-interest features, and regional developments that shape our neighborhoods.
-
 **Our Mission**
 
-At Jaywick Gazette, our mission is to deliver accurate and well-researched news, showcasing the diversity and spirit of our communities. We take pride in our commitment to journalistic integrity, ensuring that our readers can trust the information they find on our platform.
+At Jaywick Gazette, our mission is to deliver accurate and well-researched news, showcasing the diversity and spirit of our communities. We take pride in our commitment to journalistic integrity, ensuring that our readers can trust the information they find on our platform. We strive to keep you informed about local events, human-interest features, and regional developments that shape our neighborhoods.
 
 **Local Insights, Global Perspective**
 
