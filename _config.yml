@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Jaywick Gazette"
+title: "Jaywick Gazette"
+description: "Welcome to Jaywick Gazette, your trusted news outlet bringing you reliable and engaging stories from Jaywick and Essex. We are committed to providing in-depth coverage of local events, community highlights, and regional developments that matter to you."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
