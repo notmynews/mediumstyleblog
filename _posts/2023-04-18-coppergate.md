@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coppergate: Jaywick Residents on High Alert as Gangs Target Homes for Copper Piping"
-author: ben
+author: wayne
 categories: [news]
 tags: [jaywick]
 image: https://i2-prod.chroniclelive.co.uk/incoming/article1379557.ece/ALTERNATES/s810/several-homes-in-grace-street-walker-have-been-targeted-by-copper-pipe-thieves-221747658.jpg
