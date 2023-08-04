@@ -4,7 +4,7 @@ title: "Jaywick Gazette"
 description: "Welcome to Jaywick Gazette, your trusted news outlet bringing you reliable and engaging stories from Jaywick and Essex."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /
+baseurl: jaywickgazette.co.uk/
 google_analytics: 'G-L51QN7J3M6'
 disqus: ''
 mailchimp-list: ''
