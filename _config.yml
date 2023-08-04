@@ -46,14 +46,14 @@ authors:
     web: https://www.jaywickgazette.co.uk/mike
     twitter: https://twitter.com/mikethompsonJW
     description: "A seasoned journalist with a flair for storytelling, Mike is dedicated to shedding light on local issues and events. Through his writing, he aims to bridge the gap between communities and inspire positive change."
-  emma:
-    name: Emma Roberts
-    display_name: Emma Roberts
+  wayne:
+    name: Wayne Sanders
+    display_name: Wayne Sanders
     gravatar: 99f9ec241c4a6c0895a44e83e37e9b7b
-    email: emma.roberts@example.com
-    web: https://www.jaywickgazette.co.uk/emma
-    twitter: https://twitter.com/emmarobertsJW
-    description: "Emma's passion for investigative journalism drives her to uncover the untold stories that shape Jaywick. With a keen eye for detail, she seeks to provide readers with an in-depth understanding of local events."
+    email: wayne.sanders@example.com
+    web: https://www.jaywickgazette.co.uk/wayne
+    twitter: https://twitter.com/waynesandersJW
+    description: "Originally from Jaywick, Wayne loves banter and pints with mates at local pubs. He's a Brexit supporter, not UKIP, who balances sharp political commentary with a passion for classical music. Wayne epitomizes tradition meeting modernity."
   ben:
     name: Ben Anderson
     display_name: Ben Anderson
