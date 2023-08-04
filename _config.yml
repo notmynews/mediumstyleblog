@@ -39,13 +39,13 @@ authors:
     twitter: https://twitter.com/sarahjaywick
     description: "Passionate about local news and community stories, Sarah brings a fresh perspective to the happenings in Jaywick. With her insightful reporting, she aims to keep readers informed and connected to their beloved neighborhood."
   mike:
-    name: Mike Thompson
-    display_name: Mike Thompson
+    name: Michael McHeath
+    display_name: Micheal McHeath
     gravatar: f0e843e762852eb7c0a509e1a6f405a0
-    email: mike.thompson@example.com
+    email: mike.mcheath@example.com
     web: https://www.jaywickgazette.co.uk/mike
-    twitter: https://twitter.com/mikethompsonJW
-    description: "A seasoned journalist with a flair for storytelling, Mike is dedicated to shedding light on local issues and events. Through his writing, he aims to bridge the gap between communities and inspire positive change."
+    twitter: https://twitter.com/mikemcheathJW
+    description: "Michael has stood at the forefront of Essex's dynamic news scene. His interests span art, sculpture, and music, with Dire Straits being his favorite band. Having spent the last two decades in Jaywick, he weaves his unique experiences into his articles, creating rich, vibrant narratives. His work continues to shape and define the cultural conversation."
   wayne:
     name: Wayne Sanders
     display_name: Wayne Sanders
