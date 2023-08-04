@@ -5,8 +5,8 @@ author: ben
 categories: [news]
 tags: [jaywick]
 image: https://metro.co.uk/wp-content/uploads/2013/04/ay107178443jaywick-united-k.jpg?quality=90&strip=all&zoom=1&resize=1225%2C0](https://www.derelictlondon.com/uploads/5/6/0/3/5603187/jaywick-aug-2019-46.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 In a rather disturbing and unsettling incident that left the community in shock, a peculiar trade attempt took place in Jaywick, involving innocent Labrador puppies being offered as currency for car tires. The incident, referred to as the "Puppy Tire Trade," has raised concerns about the welfare of animals and underscored the importance of addressing unscrupulous practices in the area.
