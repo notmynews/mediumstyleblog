@@ -4,7 +4,7 @@ title:  "Puppy Wheels: A Bizarre Bark-gain in Jaywick"
 author: ben
 categories: [news]
 tags: [jaywick]
-image: https://metro.co.uk/wp-content/uploads/2013/04/ay107178443jaywick-united-k.jpg?quality=90&strip=all&zoom=1&resize=1225%2C0](https://www.derelictlondon.com/uploads/5/6/0/3/5603187/jaywick-aug-2019-46.jpg
+image: https://marshallspetzone.com/blog/wp-content/uploads/2018/01/2.png
 featured: false
 hidden: false
 ---
