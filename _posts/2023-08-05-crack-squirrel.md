@@ -6,7 +6,7 @@ categories: [news]
 tags: [clacton]
 image: https://media.discordapp.net/attachments/537373354168942592/1137752853566476378/84rb91k264gb1.jpg
 featured: true
-hidden: false
+hidden: true
 ---
 
 Residents of St. John's Road in Clacton-on-Sea were left both bewildered and intrigued when an unusual and rarely seen creature made a surprising appearance in their neighborhood. This rare sighting has sparked discussions and curiosity among locals, and they have aptly named the creature "The Crack Squirrel."
