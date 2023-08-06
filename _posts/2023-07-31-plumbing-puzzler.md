@@ -5,8 +5,8 @@ author: wayne
 categories: [news]
 tags: [jaywick]
 image: https://heatfinders.co.uk/wp-content/uploads/2017/07/IMG_0170.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 In a baffling and alarming revelation, Jaywick residents are left outraged as it comes to light that the sewage and water system in the town has been running through the same pipe for a whole decade! The consequences of this plumbing mishap have been far from comical, as sewage contamination has now seeped into the drinking water, leaving locals with valid concerns about their health and well-being.
