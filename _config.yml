@@ -69,8 +69,7 @@ authors:
     email: andrew.pilgrim@example.com
     web: https://www.jaywickgazette.co.uk/andy
     twitter: https://twitter.com/andyJW
-    description: "Clacton local Andy Pilgrim, armed with a degree in Gender Studies, is an invaluable asset to the Jaywick Gazette. His insightful perspectives enrich the publication's content, fostering inclusivity and understanding. Andy's dedication to progressive discourse makes him an essential contributor to both the Clacton community and the Gazette's mission."
-
+    description: "Andy Pilgrim, a Clacton resident and Jaywick Gazette contributor, brings a unique perspective to the team. With a degree in gender studies, Andy lends a diverse voice to the publication. Beyond journalism, his passion lies in train spotting, where he finds solace in the rhythm of tracks and the stories they tell."
 # Plugins
 plugins:
   - jekyll-paginate
