@@ -62,6 +62,14 @@ authors:
     web: https://www.jaywickgazette.co.uk/ben
     twitter: https://twitter.com/benandersonJW
     description: "Hailing from Clacton, Ben is a wordsmith known for his knack for humor. Infusing his articles with wit and satire, he offers a lighthearted take on events in Jaywick and beyond. Despite his penchant for jest, he's not afraid to voice his skepticism about climate change, adding a distinct perspective to his writing."
+  pilgrim:
+    name: Andy Pilgrim
+    display_name: Andy Pilgrim
+    gravatar: a47c41ddcb8b4c72b9c1c79e3af68037
+    email: andrew.pilgrim@example.com
+    web: https://www.jaywickgazette.co.uk/andy
+    twitter: https://twitter.com/andyJW
+    description: "Clacton local Andy Pilgrim, armed with a degree in Gender Studies, is an invaluable asset to the Jaywick Gazette. His insightful perspectives enrich the publication's content, fostering inclusivity and understanding. Andy's dedication to progressive discourse makes him an essential contributor to both the Clacton community and the Gazette's mission."
 
 # Plugins
 plugins:
