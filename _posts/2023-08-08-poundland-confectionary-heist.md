@@ -4,9 +4,9 @@ title:  "Brave Poundland Worker Thwarts Confectionery Heist in Colchester Store"
 author: ben
 categories: [news]
 tags: [colchester]
-image: 
+image: https://cdn.discordapp.com/attachments/537373354168942592/1138515344122712084/23957519-6a90-47c6-92df-5ffe3345bf31_image_jpeg2.jpg
 featured: false
-hidden: true
+hidden: false
 ---
 
 In a scene that unfolded straight out of a movie, a quick-thinking Poundland employee became the unsuspecting hero when three individuals attempted to make off with an unusual and audacious haul – an entire stock of confectionery. The incident occurred at the Poundland store located on Culver Street in Colchester, leaving both onlookers and law enforcement in awe of the brave worker's actions.
