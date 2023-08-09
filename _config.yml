@@ -13,38 +13,13 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-  sarah:
-    name: Sarah Johnson
-    display_name: Sarah Johnson
-    gravatar: d4a2b3c73eaf1e86f44245e8320fda3d
-    email: sarah.johnson@example.com
-    web: https://www.jaywickgazette.co.uk/sarah
-    twitter: https://twitter.com/sarahjaywick
-    description: "Passionate about local news and community stories, Sarah brings a fresh perspective to the happenings in Jaywick. With her insightful reporting, she aims to keep readers informed and connected to their beloved neighborhood."
   mike:
     name: Michael McHeath
     display_name: Micheal McHeath
     gravatar: f0e843e762852eb7c0a509e1a6f405a0
     email: mike.mcheath@example.com
     web: https://www.jaywickgazette.co.uk/mike
-    twitter: https://twitter.com/mikemcheathJW
+    twitter: https://twitter.com/mikemcheathJG
     description: "Michael has stood at the forefront of Essex's dynamic news scene. His interests span art, sculpture, and music, with Dire Straits being his favorite band. Having spent the last two decades in Jaywick, he weaves his unique experiences into his articles, creating rich, vibrant narratives. His work continues to shape and define the cultural conversation."
   wayne:
     name: Wayne Sanders
@@ -52,7 +27,7 @@ authors:
     gravatar: 99f9ec241c4a6c0895a44e83e37e9b7b
     email: wayne.sanders@example.com
     web: https://www.jaywickgazette.co.uk/wayne
-    twitter: https://twitter.com/waynesandersJW
+    twitter: https://twitter.com/waynesandersJG
     description: "Originally from Jaywick, Wayne loves banter and pints with mates at local pubs. He's a Brexit supporter, not UKIP, who balances sharp political commentary with a passion for classical music. Wayne epitomizes tradition meeting modernity."
   ben:
     name: Ben Anderson
@@ -60,7 +35,7 @@ authors:
     gravatar: a47c41ddcb8b4c72b9c1c79e3af68037
     email: ben.anderson@example.com
     web: https://www.jaywickgazette.co.uk/ben
-    twitter: https://twitter.com/benandersonJW
+    twitter: https://twitter.com/benandersonJG
     description: "Hailing from Clacton, Ben is a wordsmith known for his knack for humor. Infusing his articles with wit and satire, he offers a lighthearted take on events in Jaywick and beyond. Despite his penchant for jest, he's not afraid to voice his skepticism about climate change, adding a distinct perspective to his writing."
   pilgrim:
     name: Andy Pilgrim
@@ -68,8 +43,17 @@ authors:
     gravatar: a47c41ddcb8b4c72b9c1c79e3af68037
     email: andrew.pilgrim@example.com
     web: https://www.jaywickgazette.co.uk/andy
-    twitter: https://twitter.com/andyJW
+    twitter: https://twitter.com/andyJG
     description: "Andy Pilgrim, a Clacton resident and Jaywick Gazette contributor, brings a unique perspective to the team. With a degree in gender studies, Andy lends a diverse voice to the publication. Beyond journalism, his passion lies in train spotting, where he finds solace in the rhythm of tracks and the stories they tell."
+  vicky:
+    name: Vicky Harris
+    display_name: Vicky Harris
+    gravatar: d4a2b3c73eaf1e86f44245e8320fda3d
+    email: vic.harris@example.com
+    web: https://www.jaywickgazette.co.uk/vicky
+    twitter: https://twitter.com/vickyJG
+    description: "Vicky Harris is a talented journalist with a sharp eye for detail. She is fascinated by all things occult and paranormal. She is also an avid collector of taxidermy animals. She has a particular fondness for stuffed owls."
+
 # Plugins
 plugins:
   - jekyll-paginate
