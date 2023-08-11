@@ -1,4 +1,4 @@
-![image](https://github.com/notmynews/mediumstyleblog/assets/12731056/f9f637d1-b134-4331-af4c-05f5e0d57fbb)---
+---
 layout: post
 title:  "Essex Police Close 18-Month 'Operation Doorstop': Unmasking Drug Delivery via Asda Drivers"
 author: mako
