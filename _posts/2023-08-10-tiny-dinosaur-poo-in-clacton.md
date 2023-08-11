@@ -4,7 +4,7 @@ title:  "Man Finds Tiny Dinosaur Poo in Clacton"
 author: vicky
 categories: [news]
 tags: [clacton]
-image: http://www.finefossils.com/images/products/large_537_2.jpg
+image: https://www.fossils-facts-and-finds.com/images/o-coprolite-web.jpg
 featured: false
 hidden: false
 ---
