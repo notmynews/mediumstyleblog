@@ -53,7 +53,14 @@ authors:
     web: https://www.jaywickgazette.co.uk/vicky
     twitter: https://twitter.com/vickyJG
     description: "Vicky Harris is a talented journalist with a sharp eye for detail. She is fascinated by all things occult and paranormal. She is also an avid collector of taxidermy animals. She has a particular fondness for stuffed owls."
-
+  mako:
+    name: Benjamin Carter
+    display_name: Benajamin Carter
+    gravatar: d4a2b3c73eaf1e86f44245e8320fda3d
+    email: benjamin.carter@example.com
+    web: https://www.jaywickgazette.co.uk/benjamincarter
+    twitter: https://twitter.com/benjC
+    description: "A retired solicitor, brings a wealth of legal expertise to his current endeavors. When not immersed in legal matters, he indulges his passion for Viking reenactment, embodying history with fervor. A lover of cardigans, he strikes a balance between classic style and comfort. Additionally, his role as a regional judge for Crufts showcases his dedication to canine excellence in the world of dog shows."
 # Plugins
 plugins:
   - jekyll-paginate
