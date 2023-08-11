@@ -3,7 +3,7 @@ layout: post
 title:  "Essex Police Close 18-Month 'Operation Doorstop': Unmasking Drug Delivery via Asda Drivers"
 author: mako
 categories: [news]
-tags: [clacton]
+tags: [clacton, essex]
 image: https://www.bishopsstortfordindependent.co.uk/_media/img/750x0/7CV212IZD2I3TH7DJSV6.jpg
 featured: false
 hidden: false
