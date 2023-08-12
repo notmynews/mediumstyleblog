@@ -6,7 +6,7 @@ categories: [news]
 tags: [colchester, pride, lgbtq+, jesus]
 image: https://media.discordapp.net/attachments/541682474367844404/1139943444169638048/PXL_20230812_1510588472.jpg
 featured: true
-hidden: false
+hidden: true
 ---
 
 In a twist of divine absurdity, the "Godsquad" has taken it upon themselves to rain on Colchester's Pride parade, preaching against the very celebration that embraces love, diversity, and acceptance. While some may see their efforts as misguided, there's a certain comedic irony in the zealotry that these modern-day "prophets" display.
