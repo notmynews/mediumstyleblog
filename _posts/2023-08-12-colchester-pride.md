@@ -4,7 +4,7 @@ title:  "Godsquad preaching against Colchester Pride"
 author: pilgrim
 categories: [news]
 tags: [colchester, pride, lgbtq+, jesus]
-image: 
+image: https://media.discordapp.net/attachments/541682474367844404/1139939347240583178/PXL_20230812_151058847.jpg
 featured: true
 hidden: false
 ---
