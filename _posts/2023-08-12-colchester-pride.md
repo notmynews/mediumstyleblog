@@ -5,7 +5,7 @@ author: pilgrim
 categories: [news]
 tags: [colchester, pride, lgbtq+, jesus]
 image: 
-featured: false
+featured: true
 hidden: false
 ---
 
