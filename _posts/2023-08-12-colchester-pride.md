@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Godsquad preaching against Colchester Pride"
+title:  "Godsquad Preaching Against Colchester Pride"
 author: pilgrim
 categories: [news]
 tags: [colchester, pride, lgbtq+, jesus]
