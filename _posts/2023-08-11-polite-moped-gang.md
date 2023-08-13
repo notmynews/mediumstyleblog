@@ -5,8 +5,8 @@ author: ben
 categories: [news]
 tags: [colchester]
 image: https://i2-prod.mirror.co.uk/incoming/article15677716.ece/ALTERNATES/s1200/1_Moped-gang-court-case.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 ---
 
 In recent times, the tranquil streets of Colchester have become host to an unsettling phenomenon - the rise of moped gangs engaging in muggings and criminal activities. As our community grapples with this concerning trend, I recount a rather perplexing encounter that sheds light on the audacious nature of these moped miscreants.
