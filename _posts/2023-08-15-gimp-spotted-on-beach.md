@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unusual Beach Encounter: Gimp Spotted on Jaywick's Shores Raises Eyebrows"
-author: pilgrim
+author: mako
 categories: [news]
 tags: [jaywick, gimp]
 image: https://media.discordapp.net/attachments/963886852778111006/1141507108353888306/IMG-20230815-WA0007.jpg
