@@ -5,7 +5,7 @@ description: "Welcome to Jaywick Gazette, your trusted news outlet bringing you 
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
-google_analytics: 'G-L51QN7J3M6'
+google_analytics: 'G-M0JL6R5HNJ'
 disqus: ''
 mailchimp-list: ''
 include: ["_pages"]
