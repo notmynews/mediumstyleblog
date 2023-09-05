@@ -6,7 +6,7 @@ categories: [news]
 tags: [essex]
 image: https://s.yimg.com/ny/api/res/1.2/.rDvhe7._MTwdfTT1b_XNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/aol_press_association_news_966/d2b61fad6fc9aee83c0eb92601cbbd1e
 featured: true
-hidden: false
+hidden: true
 ---
 
 In a groundbreaking move, Education Secretary Gillian Keegan has proposed a unique solution to the recent revelation that more than a hundred schools in England are plagued by buildings constructed with a type of concrete prone to collapse. In an unexpected turn of events, Keegan has suggested repurposing migrant barges as alternative learning spaces for affected students, ensuring that their education remains uninterrupted.
