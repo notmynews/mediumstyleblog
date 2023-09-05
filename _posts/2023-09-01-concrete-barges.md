@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Education Secretary Proposes Innovative Solution: Closed Schools to Find New Home Aboard Migrant Barges"
+title:  "Learning on the Waves: Closed Schools to Set Sail on Migrant Barges as Education Secretary Charts a Unique Course"
 author: ben
 categories: [news]
 tags: [essex]
-image: https://ichef.bbci.co.uk/news/1024/branded_news/C82C/production/_129844215_415627b5d0a245f38810b6aa8a8eb93ed2086aa1.jpg
+image: https://s.yimg.com/ny/api/res/1.2/.rDvhe7._MTwdfTT1b_XNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/aol_press_association_news_966/d2b61fad6fc9aee83c0eb92601cbbd1e
 featured: true
 hidden: false
 ---
