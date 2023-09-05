@@ -4,7 +4,7 @@ title:  "Plumbing Puzzler: A Decade-Long Pipe Predicament in Jaywick"
 author: wayne
 categories: [news]
 tags: [jaywick]
-image: https://heatfinders.co.uk/wp-content/uploads/2017/07/IMG_0170.jpg
+image: http://newsimg.bbc.co.uk/media/images/44742000/jpg/_44742086_sewagewater_226.jpg
 featured: false
 hidden: false
 ---
