@@ -2,7 +2,7 @@
 layout: post
 title:  "Learning on the Waves: Closed Schools to Set Sail on Migrant Barges as Education Secretary Charts a Unique Course"
 author: ben
-categories: [news]
+categories: [news, politics]
 tags: [essex]
 image: https://s.yimg.com/ny/api/res/1.2/.rDvhe7._MTwdfTT1b_XNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/aol_press_association_news_966/d2b61fad6fc9aee83c0eb92601cbbd1e
 featured: true
