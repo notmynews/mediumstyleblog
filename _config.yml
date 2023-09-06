@@ -17,7 +17,7 @@ authors:
     name: Michael McHeath
     display_name: Micheal McHeath
     gravatar: f0e843e762852eb7c0a509e1a6f405a0
-    email: mike.mcheath@example.com
+    email: mike.mcheath@jaywickgazette.co.uk
     web: https://www.jaywickgazette.co.uk/mike
     twitter: https://twitter.com/mikemcheathJG
     description: "Michael has stood at the forefront of Essex's dynamic news scene. His interests span art, sculpture, and music, with Dire Straits being his favorite band. Having spent the last two decades in Jaywick, he weaves his unique experiences into his articles, creating rich, vibrant narratives. His work continues to shape and define the cultural conversation."
@@ -25,7 +25,7 @@ authors:
     name: Wayne Sanders
     display_name: Wayne Sanders
     gravatar: 99f9ec241c4a6c0895a44e83e37e9b7b
-    email: wayne.sanders@example.com
+    email: wayne.sanders@jaywickgazette.co.uk
     web: https://www.jaywickgazette.co.uk/wayne
     twitter: https://twitter.com/waynesandersJG
     description: "Originally from Jaywick, Wayne loves banter and pints with mates at local pubs. He's a Brexit supporter, not UKIP, who balances sharp political commentary with a passion for classical music. Wayne epitomizes tradition meeting modernity."
@@ -33,7 +33,7 @@ authors:
     name: Ben Anderson
     display_name: Ben Anderson
     gravatar: a47c41ddcb8b4c72b9c1c79e3af68037
-    email: ben.anderson@example.com
+    email: ben.anderson@jaywickgazette.co.uk
     web: https://www.jaywickgazette.co.uk/ben
     twitter: https://twitter.com/benandersonJG
     description: "Hailing from Clacton, Ben is a wordsmith known for his knack for humor. Infusing his articles with wit and satire, he offers a lighthearted take on events in Jaywick and beyond. Despite his penchant for jest, he's not afraid to voice his skepticism about climate change, adding a distinct perspective to his writing."
@@ -41,7 +41,7 @@ authors:
     name: Andy Pilgrim
     display_name: Andy Pilgrim
     gravatar: a47c41ddcb8b4c72b9c1c79e3af68037
-    email: andrew.pilgrim@example.com
+    email: andrew.pilgrim@jaywickgazette.co.uk
     web: https://www.jaywickgazette.co.uk/andy
     twitter: https://twitter.com/andyJG
     description: "Andy Pilgrim, a Clacton resident and Jaywick Gazette contributor, brings a unique perspective to the team. With a degree in gender studies, Andy lends a diverse voice to the publication. Beyond journalism, his passion lies in train spotting, where he finds solace in the rhythm of tracks and the stories they tell."
@@ -49,7 +49,7 @@ authors:
     name: Vicky Harris
     display_name: Vicky Harris
     gravatar: d4a2b3c73eaf1e86f44245e8320fda3d
-    email: vic.harris@example.com
+    email: vic.harris@jaywickgazette.co.uk
     web: https://www.jaywickgazette.co.uk/vicky
     twitter: https://twitter.com/vickyJG
     description: "Vicky Harris is a talented journalist with a sharp eye for detail. She is fascinated by all things occult and paranormal. She is also an avid collector of taxidermy animals. She has a particular fondness for stuffed owls."
@@ -57,10 +57,18 @@ authors:
     name: Benjamin Carter
     display_name: Benajamin Carter
     gravatar: d4a2b3c73eaf1e86f44245e8320fda3d
-    email: benjamin.carter@example.com
+    email: benjamin.carter@jaywickgazette.co.uk
     web: https://www.jaywickgazette.co.uk/benjamincarter
     twitter: https://twitter.com/benjC
     description: "A retired solicitor, brings a wealth of legal expertise to his current endeavors. When not immersed in legal matters, he indulges his passion for Viking reenactment, embodying history with fervor. A lover of cardigans, he strikes a balance between classic style and comfort. Additionally, his role as a regional judge for Crufts showcases his dedication to canine excellence in the world of dog shows."
+  anna:
+    name: Anna White
+    display_name: Anna White
+    gravatar: d4a2b3c73eaf1e86489245e8320fda3d
+    email: anna.white@jaywickgazette.co.uk
+    web: https://www.jaywickgazette.co.uk/annawhite
+    twitter: https://twitter.com/annawh1te_
+    description: "A provocative voice unafraid to tackle controversial topics with wit and humor. From her experiences as a passionate hunt saboteur to her candid exploration of societal taboos, Anna brings a unique perspective to the world of writing. Her unfiltered narratives challenge norms and invite readers to question their own beliefs, all while maintaining a distinctive and humorous style."
 # Plugins
 plugins:
   - jekyll-paginate
