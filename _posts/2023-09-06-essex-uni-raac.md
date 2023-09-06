@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Startling Disclosure Emerges Regarding Essex University's Brutalist Architecture"
 author: anna
 categories: [news]
 tags: [essex, colchester]
