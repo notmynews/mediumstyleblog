@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cambrian Squid With "Hat": Fashion Icon or Just a Weirdo?"
+title:  "Cambrian Squid With Hat: Fashion Icon or Just a Weirdo?"
 author: vicky
 categories: [news]
 tags: [jaywick, history]
