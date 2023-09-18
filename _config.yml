@@ -69,6 +69,14 @@ authors:
     web: https://www.jaywickgazette.co.uk/annawhite
     twitter: https://twitter.com/annawh1te_
     description: "A provocative voice unafraid to tackle controversial topics with wit and humor. From her experiences as a passionate hunt saboteur to her candid exploration of societal taboos, Anna brings a unique perspective to the world of writing. Her unfiltered narratives challenge norms and invite readers to question their own beliefs, all while maintaining a distinctive and humorous style."
+  emma:
+    name: Emma Swaine
+    display_name: Emma Swaine
+    gravatar: d4a2b3c73eaf1e86489jfye8320fda3d
+    email: emma.swaine@jaywickgazette.co.uk
+    web: https://www.jaywickgazette.co.uk/EmmaSwaine 
+    twitter: https://twitter.com/EmmaSwaine_2390
+    description: "Emma, with a decade of experience in Fashion Journalism, brings her unique style to The Jaywick Gazette. Known for her fashionable hats and witty slogan tees, Emma's affection for the local community and wildlife shines through her writing. When she's not working, you can find her teeing off at Clacton Golf Club and catching up with her long-distance boyfriend, Michel, in Luxembourg."
 # Plugins
 plugins:
   - jekyll-paginate
