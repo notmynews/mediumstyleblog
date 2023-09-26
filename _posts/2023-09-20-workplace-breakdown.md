@@ -9,18 +9,14 @@ featured: false
 hidden: false
 ---
 
-In a twist that has managers scratching their heads (and possibly their stress-induced hair loss), anonymous voices from the corporate world are taking aim at what they perceive as a rise in "stressed" and "lazy" workers who dare to take time off. This uproar comes as a new report reveals that workplace absences have hit a 10-year high, with stress leading the pack as the primary culprit behind long-term sickness leave.
+As workplace absences hit a 10-year high, some anonymous managers are raising their eyebrows and shaking their heads at what they perceive as a lack of dedication from their employees. A recent report reveals that stress is the leading cause of long-term sickness, and the average worker now takes a whopping 7.5 days off sick per year, up from 5.5 days a decade ago. But is it all just an excuse to catch some extra z's?
 
-The report, which has sent shockwaves through the cubicles, coffee corners, and watercooler chat sessions, unveils some eyebrow-raising statistics. It seems the average worker now takes a staggering 7.5 days off sick per year, a notable increase from the modest 5.5 days a decade ago.
+Well, folks, brace yourselves for the truth – more than 8,000 passengers at Gatwick Airport are currently facing flight delays and cancellations due to a shortage of staff. That's right, 50 flights have either been grounded or never got off the ground. National Air Traffic Services (Nats) tells us that it's all due to "short-notice staff sickness, including some incidences of Covid."
 
-"It's truly astounding," one anonymous manager lamented. "Back in my day, we didn't have time for all this 'self-care' nonsense. You had a bit of a sniffle, and you soldiered on with a steaming mug of tea in one hand and a deadline in the other."
+Now, back in my day, when you had a job to do, you did it, rain or shine, and you certainly didn't let a little stress get in the way. But it seems like the modern workforce has a different perspective. They're quick to call in "sick" and disrupt our holiday plans to Marbella.
 
-Another manager chimed in, "These young folks today, they act like a mild headache is akin to a near-death experience. It's 'doctor's notes' and 'mental health days' left and right. Where's the grit?"
+Dozens of easyJet flights were caught in the crossfire of this so-called "disruption." But what about our disrupted plans? Who's looking out for us, the hardworking holidaymakers who just want to soak up the sun without worrying about delays?
 
-While some may view this surge in time-off as a sign that employees are finally prioritizing their well-being, others seem to regard it as an affront to the sacred altar of productivity. "We didn't build empires by taking 'duvet days,'" one managerial voice quipped.
+The rise in stress-related sick days and the inconvenience it causes are certainly frustrating for many of us who remember a time when you didn't dare take a day off unless you were on your deathbed.
 
-However, amidst the grumbling and eye-rolling, there's a growing realization that perhaps a shift in perspective is needed. The modern workplace, with its ever-increasing demands and the relentless march of technology, has brought new challenges to the forefront. Burnout and mental health concerns are real issues, and the workforce is adapting accordingly.
-
-So, as the battle between "stressed" workers and their skeptical managers rages on, one thing is clear: the world of work is evolving. While some may pine for the days of yore when a single aspirin could cure all ills, it seems the modern workforce is charting a different course, one that values well-being alongside productivity.
-
-As the saying goes, "Don't knock it 'til you've tried it." In this case, perhaps it's time for a collective workplace sigh, followed by a deep breath, amidst the grumbling and eye-rolling, as everyone navigates the evolving landscape of work, wellness, and, yes, the occasional sick day.
+So, the next time someone mentions stress as the reason for their sick day, maybe it's time to remind them of the good old days when work ethic meant showing up, no matter what. After all, we oldies know a thing or two about hard work and dedication, and we certainly didn't let stress get the best of us.
