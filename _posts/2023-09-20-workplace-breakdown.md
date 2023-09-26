@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Workplace Breakdown: Lazy Workers Cause Surge in Time-Off"
-author: ben
+author: wayne
 categories: [news]
 tags: [uk]
 image: https://www.bandt.com.au/information/uploads/2018/01/Man-getting-angry-at-computer-1260x840.png
