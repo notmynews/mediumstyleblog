@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasyJet's Owner Takes Easy to a Whole New Level: Files Patent for the Word Itself, Sues UK Band for Using Name"
+title: "EasyJet Owner Takes Easy to a Whole New Level. Files Patent for the Word Itself, Sues UK Band for Using Name"
 author: ben
 categories: [news, business]
 tags: [uk]
