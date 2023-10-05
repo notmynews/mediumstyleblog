@@ -6,7 +6,7 @@ categories: [news, business]
 tags: [uk]
 image: https://i2-prod.manchestereveningnews.co.uk/incoming/article5315114.ece/ALTERNATES/s810/EasyJet.jpg
 featured: false
-hidden: true
+hidden: false
 ---
 
 EasyJet's owner, easyGroup, is taking its name very seriously. The company has filed a patent for the word "easy" itself in the United Kingdom. The patent application covers a wide range of goods and services, including "travel and transportation services," "advertising and marketing services," and "financial services."
