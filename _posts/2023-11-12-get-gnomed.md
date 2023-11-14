@@ -5,7 +5,7 @@ author: ben
 categories: [news]
 tags: [colchester]
 image: https://cdn.discordapp.com/attachments/537373354168942592/1174125715797573784/71-6Nc4WUoL.png
-featured: true
+featured: false
 hidden: false
 ---
 
