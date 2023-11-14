@@ -17,7 +17,7 @@ Here's how it works: savvy residents intentionally purchase gnomes from online r
 
 Social media has become a hub for sharing videos capturing the thieves' reactions as they unwittingly "get gnomed." The trend has taken off, with Colchester residents embracing the lighthearted approach to thwarting porch piracy.
 
-Local gnome vendors have reported a surge in sales, and some are even offering special "anti-piracy" gnome packages. One vendor, Gnome Depot, stated, "It's amazing to see our gnomes not just gracing gardens but also taking on a role in community protection. Who knew gnomes could be heroes in disguise?"
+Local gnome vendors have reported a surge in sales, and some are even offering special "anti-piracy" gnome packages. One vendor, Gnome Magic, stated, "It's amazing to see our gnomes not just gracing gardens but also taking on a role in community protection. Who knew gnomes could be heroes in disguise?"
 
 Residents are finding both humor and satisfaction in turning the tables on porch pirates. "It's become a game of wits, and the gnomes are our secret weapon," remarked one resident, who has successfully "gnomed" multiple would-be thieves.
 
