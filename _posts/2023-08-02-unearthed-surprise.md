@@ -5,8 +5,8 @@ author: pilgrim
 categories: [news]
 tags: [clacton]
 image: https://i2-prod.mirror.co.uk/incoming/article10755444.ece/ALTERNATES/s615b/This-pie-lover-has-taken-his-obsession-with-Fray-Bentos-to-the-next-level-by-decorating-his-garden.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 In a twist of events that left the usually routine task of garbage collection in Little Clacton fraught with surprise and tension, local bin men stumbled upon an unexpected and potentially hazardous item nestled among the discarded waste. What appeared at first glance to be a humble Frey Bentos pie turned out to be a landmine, prompting an immediate response from authorities and a newfound sense of appreciation for the vigilant garbage collectors.
