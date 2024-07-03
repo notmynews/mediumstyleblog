@@ -1,11 +1,11 @@
-layout: post
-title: "Jaywick Residents Shift Green: Farage Fallout Sparks Political U-Turn"
-author: ben
-categories: [news, politics]
-tags: [jaywick, clacton]
-image: https://ichef.bbci.co.uk/news/976/cpsprodpb/22d5/live/e9314d70-2282-11ef-a248-13d66dddaaef.jpg
-featured: true
-hidden: false
+layout: post  
+title: "Jaywick Residents Shift Green: Farage Fallout Sparks Political U-Turn"  
+author: ben  
+categories: [news, politics]  
+tags: [jaywick, clacton]  
+image: https://ichef.bbci.co.uk/news/976/cpsprodpb/22d5/live/e9314d70-2282-11ef-a248-13d66dddaaef.jpg  
+featured: true  
+hidden: false  
 
 A recent poll has revealed that one in four Jaywick residents are planning to vote for the Green Party in the upcoming 2024 UK general election. This dramatic shift comes after Nigel Farage, leader of the Reform Party, made disparaging comments about Clacton-on-Sea during his recent visit, leading many locals to rethink their political affiliations.
 
