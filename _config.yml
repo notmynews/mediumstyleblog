@@ -32,7 +32,8 @@ authors:
   ben:
     name: Ben Anderson
     display_name: Ben Anderson
-    gravatar: a47c41ddcb8b4c72b9c1c79e3af68037
+    #gravatar: a47c41ddcb8b4c72b9c1c79e3af68037
+    gravatar: https://raw.githubusercontent.com/notmynews/mediumstyleblog/main/assets/images/ben.jpg
     email: ben.anderson@jaywickgazette.co.uk
     web: https://www.jaywickgazette.co.uk/ben
     twitter: https://twitter.com/benandersonJG
