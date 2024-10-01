@@ -4,7 +4,7 @@ title:  "Colchester Institute Cuts Teaching Staff Pay to Fund AI Classrooms"
 author: ben
 categories: [news]
 tags: [colchester]
-image: https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/fdf49a64-9feb-4b0c-9ca1-884f9895c71e/DallEGeneratedImages/dalle-d57f07b9-7243-486a-94a2-1890e2cb14a20251674603282541448200.jpg&dcHint=FranceCentral&fileToken=afb301ac-1fe5-4bb1-bfd9-7631851d9af6
+image: https://raw.githubusercontent.com/notmynews/mediumstyleblog/refs/heads/main/assets/images/document.jpg
 featured: true
 hidden: false
 ---
