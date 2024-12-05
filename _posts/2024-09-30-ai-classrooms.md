@@ -5,7 +5,7 @@ author: ben
 categories: [news]
 tags: [colchester]
 image: https://raw.githubusercontent.com/notmynews/mediumstyleblog/refs/heads/main/assets/images/document.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
