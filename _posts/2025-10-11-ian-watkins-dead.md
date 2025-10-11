@@ -7,6 +7,7 @@ tags: [crime, music]
 image: https://i2-prod.walesonline.co.uk/article29440900.ece/ALTERNATES/s1023/2_ian-watkins-court-case.jpg
 featured: true
 hidden: true
+---
 
 In a shocking turn of events, Ian Watkins, the disgraced former frontman of the band Lostprophets, has died in prison following a brutal attack by fellow inmates. According to early reports, Watkins was assaulted with an improvised bladed weapon and sustained a fatal injury to his neck. Despite attempts by prison staff to intervene, he was pronounced dead at the scene.
 
