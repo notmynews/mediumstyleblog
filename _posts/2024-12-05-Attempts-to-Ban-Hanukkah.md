@@ -5,8 +5,8 @@ author: pilgrim
 categories: [news]  
 tags: [jaywick, controversy, workers party]  
 image: https://raw.githubusercontent.com/notmynews/mediumstyleblog/refs/heads/main/assets/images/Never-Say-Die-Jsrnsd-Pub-in-Clacton-Family-Pub-Eating-Out-Clacton-Charity-Clacton-Pub-Food-Essex-1.png
-featured: true  
-hidden: true
+featured: false
+hidden: false
 ---
 
 In a bizarre turn of events, Jaywick's controversial Workers Party has sparked outrage by proposing a ban on Hanukkah celebrations at the local pub, "Never Say Die." The move, described by critics as "blatantly discriminatory," has led to heated debates in the small seaside community, which is no stranger to controversy.  
