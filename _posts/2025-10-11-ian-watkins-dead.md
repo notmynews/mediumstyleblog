@@ -11,13 +11,13 @@ hidden: true
 
 In a shocking turn of events, Ian Watkins, the disgraced former frontman of the band Lostprophets, has died in prison following a brutal attack by fellow inmates. According to early reports, Watkins was assaulted with an improvised bladed weapon and sustained a fatal injury to his neck. Despite attempts by prison staff to intervene, he was pronounced dead at the scene.
 
-The 46-year-old, who was serving a lengthy sentence for multiple child sex offenses, had been targeted before by other prisoners, but this latest attack proved fatal. Prison authorities have launched an investigation, with sources describing the incident as “particularly violent.”
+The 48-year-old, who was serving a lengthy sentence for multiple child sex offenses, had been targeted before by other prisoners, but this latest attack proved fatal. Prison authorities have launched an investigation, with sources describing the incident as “particularly violent.”
 
 The Wrong Ian Watkins
 
 While the news has been met with grim fascination online, it has also led to an all-too-familiar case of mistaken identity—once again involving Ian “H” Watkins, the pop star from the beloved 90s group Steps.
 
-Social media was flooded with confusion as news of “Ian Watkins’ death” broke, prompting many to mistakenly mourn the wrong man. The Steps singer, 48, was reportedly delayed at Stansted Airport after local authorities were briefly under the impression that he was the deceased individual.
+Social media was flooded with confusion as news of “Ian Watkins’ death” broke, prompting many to mistakenly mourn the wrong man. The Steps singer, 49, was reportedly delayed at Stansted Airport after local authorities were briefly under the impression that he was the deceased individual.
 
 According to eyewitnesses, “H” was stopped by border security upon arrival from a European flight when his name triggered an alert on their system. It was quickly clarified that he was, in fact, very much alive—and not the disgraced Lostprophets frontman.
 
