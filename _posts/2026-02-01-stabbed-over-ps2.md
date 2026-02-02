@@ -6,7 +6,7 @@ categories: [news]
 tags: [essex, crime, facebook marketplace]
 image: https://raw.githubusercontent.com/notmynews/mediumstyleblog/refs/heads/main/assets/images/bcc2bf49-92f4-4d9c-b428-5843689814ad.png
 featured: false
-hidden: true
+hidden: false
 ---
 
 A man has been left seriously injured after being stabbed during a Facebook Marketplace sale involving a PlayStation 2 and a copy of FIFA Street, in an incident that has left locals questioning how a nostalgia-fuelled console exchange escalated so dramatically.
