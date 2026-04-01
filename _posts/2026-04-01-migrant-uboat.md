@@ -5,8 +5,8 @@ author: ben
 categories: [news]
 tags: [jaywick, coast, essex, clacton]
 image: https://raw.githubusercontent.com/notmynews/mediumstyleblog/refs/heads/main/assets/images/jaywick-sands-beach-aerial-draft.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 ---
 
 A hobby drone enthusiast has captured the extraordinary moment a small migrant boat appeared to make landfall on Jaywick Sands beach, only to abruptly turn around and head straight back out to sea moments later.
