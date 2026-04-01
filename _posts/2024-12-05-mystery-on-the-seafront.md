@@ -5,8 +5,8 @@ author: ben
 categories: [news]
 tags: [clacton, bitcoin, crime]
 image: https://durabilitymatters.com/wp-content/uploads/2019/12/black-usb-flash-drive-on-a-laptop-computer.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 Clacton-on-Sea is no stranger to seaside drama, but the town is abuzz with a tale that feels straight out of a spy thriller. A USB stick reportedly containing 5.67 Bitcoin—valued at a staggering **£440,842** at the time of writing—has mysteriously disappeared along the seafront, leaving both locals and crypto enthusiasts scratching their heads.
